@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Mesa Documentation Hub
 
-You can use the [editor on GitHub](https://github.com/emilycrilley-brt/pagesTest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Mesa Documentation Hub! You will find all necessary user documents here! 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
