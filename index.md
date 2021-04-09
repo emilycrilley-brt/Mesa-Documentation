@@ -4,7 +4,7 @@ Welcome to the Mesa Documentation Hub! You will find all necessary user document
 
 Select the Tool below to access the documentation 
 
-[![button](brtdevkithome.md)
+[Link button](brtdevkithome.md){: .btn .btn-blue }
 
 [mesa-kubeflow](kubeflowhome.md)
 
