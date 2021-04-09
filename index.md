@@ -4,7 +4,7 @@ Welcome to the Mesa Documentation Hub! You will find all necessary user document
 
 Select the Tool below to access the documentation 
 
-[brt-devkit](brtdevkithome.md){: .btn .btn-outline }
+[brt-devkit](brtdevkithome.md){: .btn .btn-red }
 
 [mesa-kubeflow](kubeflowhome.md)
 
