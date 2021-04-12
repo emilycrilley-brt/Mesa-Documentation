@@ -10,4 +10,4 @@ Follow the links below to read brt-devkit related documentation.
 
 
 [Back to Home](index.md)
-[![Back](backbutton.png)](index.md)
+[![Back](backbutton.png)](/index.md)
