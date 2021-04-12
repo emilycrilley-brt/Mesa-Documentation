@@ -8,3 +8,5 @@ Select the Tool below to access the documentation
 
 [mesa-kubeflow](kubeflowhome.md)
 
+[Other Documentation](other.md)
+
