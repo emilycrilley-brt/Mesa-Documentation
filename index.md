@@ -1,4 +1,4 @@
-## Mesa Documentation Hub
+# Mesa Documentation Hub
 
 Welcome to the Mesa Documentation Hub! You will find all necessary user documents here! 
 
