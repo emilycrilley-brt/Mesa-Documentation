@@ -1,6 +1,6 @@
-## Brt-Devkit Documentation 
 [Back to Home](index.md)
 
+## Brt-Devkit Documentation 
 Follow the links below to read brt-devkit related documentation. 
 
 
