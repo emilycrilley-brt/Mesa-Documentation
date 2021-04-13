@@ -10,6 +10,10 @@ Follow the links below to read our Kubeflow related documentation.
 
 [Fake Document](https://docs.google.com/document/d/e/2PACX-1vRFQihzdIe8owGAU54PKGyrBjGz6Na02eVFuzef2BM4SCARsGQC1FFEeSBSFGQrYPUwViWaVhPFa70d/pub)
 
-[Definitely Docs](https://docs.google.com/document/d/e/2PACX-1vRFQihzdIe8owGAU54PKGyrBjGz6Na02eVFuzef2BM4SCARsGQC1FFEeSBSFGQrYPUwViWaVhPFa70d/pub)
+[Definitely Doc](https://docs.google.com/document/d/e/2PACX-1vRFQihzdIe8owGAU54PKGyrBjGz6Na02eVFuzef2BM4SCARsGQC1FFEeSBSFGQrYPUwViWaVhPFa70d/pub)
+
+[Linked Document](https://docs.google.com/document/d/e/2PACX-1vRFQihzdIe8owGAU54PKGyrBjGz6Na02eVFuzef2BM4SCARsGQC1FFEeSBSFGQrYPUwViWaVhPFa70d/pub)
+
+[Linked Document](https://docs.google.com/document/d/e/2PACX-1vRFQihzdIe8owGAU54PKGyrBjGz6Na02eVFuzef2BM4SCARsGQC1FFEeSBSFGQrYPUwViWaVhPFa70d/pub)
 
 [Linked Document](https://docs.google.com/document/d/e/2PACX-1vRFQihzdIe8owGAU54PKGyrBjGz6Na02eVFuzef2BM4SCARsGQC1FFEeSBSFGQrYPUwViWaVhPFa70d/pub)
