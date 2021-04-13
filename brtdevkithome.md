@@ -1,4 +1,6 @@
 ## Brt-Devkit Documentation 
+[Back to Home](index.md)
+
 Follow the links below to read brt-devkit related documentation. 
 
 
@@ -13,6 +15,3 @@ Follow the links below to read brt-devkit related documentation.
 [Definitely Docs](https://docs.google.com/document/d/e/2PACX-1vRFQihzdIe8owGAU54PKGyrBjGz6Na02eVFuzef2BM4SCARsGQC1FFEeSBSFGQrYPUwViWaVhPFa70d/pub)
 
 [Linked Document](https://docs.google.com/document/d/e/2PACX-1vRFQihzdIe8owGAU54PKGyrBjGz6Na02eVFuzef2BM4SCARsGQC1FFEeSBSFGQrYPUwViWaVhPFa70d/pub)
-
-
-[Back to Home](index.md)
