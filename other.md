@@ -1,4 +1,5 @@
-#Other Documentation 
+[Back to Home](index.md)
+# Other Documentation 
 Couldn't find what you were looking for? It may be here! 
 
 [Jira Solution](https://docs.google.com/document/d/e/2PACX-1vSaqxuy1X8BzwVUDuRRjOqEjoaf9QNnGbr0nIHdH4n66H9eGbR2lzXxoczalLejqYWsZxppbAUKO5PD/pub) 
